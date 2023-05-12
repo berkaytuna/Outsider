@@ -4,7 +4,9 @@ Content/
 DerivedDataCache/
 Intermediate/
 Platforms/
+Plugins/
 Saved/
+SourceFiles/
 .vsconfig
 Outsider.sln
 Brushify_ForestPack.png
